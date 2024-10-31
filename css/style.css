@@ -1,0 +1,67 @@
+/* Nice Video Posts CSS Stylesheet */
+
+.nicevideoposts-archive-wrap
+{
+}
+.nicevideoposts-list-thumbnails
+{
+    float:left;
+    margin:.5em;
+}
+.nicevideoposts-list-wrap
+{
+    margin: 0 .5em .5em 0;
+}
+.nicevideoposts-list-content-wrap
+{
+    float:left;
+    margin:.5em;
+    width: 60%;"
+}
+.nicevideoposts-list-title
+{
+    margin: 0 0 .8em 0;
+    font-size: 1.2em;
+}
+.nicevideoposts-list-title a:link,
+.nicevideoposts-list-title a:visited
+{
+    text-decoration:none;
+}
+.nicevideoposts-list-excerpt
+{
+}
+.nicevideoposts-clearboth
+{
+    clear: both;
+}
+.nicevideoposts-grid-wrap
+{
+    float:left;
+    margin: 0 .8em .8em 0;
+    width: 356px;
+}
+
+.nicevideoposts-grid-title
+{
+    margin: .3em 0 .3em 0;
+    font-size: 1.2em;
+}
+.nicevideoposts-grid-title a:link,
+.nicevideoposts-grid-title a:visited
+{
+    text-decoration:none;
+}
+.nicevideoposts-grid-excerpt
+{
+}
+.nicevideoposts-post-wrap
+{
+}
+.nicevideoposts-post-video-wrap
+{
+    margin: 0 0 .8em 0;
+}
+.nicevideoposts-post-content
+{
+}
